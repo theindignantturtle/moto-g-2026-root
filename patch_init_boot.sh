@@ -1,5 +1,5 @@
 #!/bin/sh
-##this script byte matches a magisk patched init_boot.img to match the original
+##this is meant to be a guide. not a runnable script. byte matches a magisk patched init_boot.img to match the original
 ##this allows writing patched init_boot through a secure bootloader
 
 avbtool make_vbmeta_image \
