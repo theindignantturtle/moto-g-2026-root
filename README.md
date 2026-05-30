@@ -1,6 +1,6 @@
 # Moto G 2026 Root Guide
 
-Here are the steps I took to root my moto g 2026. I'm sharing this so that anyone who wants to, can actually own their phone. Government mass surveillance is intrusive and oppressive. The data is gathered and indefinitely stored is used against you. It's used to take money out your pocket and even to decidee whether you get to live or die. For real.
+Here are the steps I took to root my moto g 2026. I'm sharing this so that anyone who wants to, can root their motog. Government mass surveillance is intrusive and oppressive. The data is gathered and indefinitely stored is used against you. It's used to take money out your pocket and even to decidee whether you get to live or die. For real.
 
 For the init_boot_patched.img to work exactly like mine, your device and security update must match exactly. If your doesn't match, you have to get the firmware yourself. First unlock the bootloader and download your exact firmware through Motorolla's website. 
 
