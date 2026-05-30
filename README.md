@@ -41,12 +41,6 @@ Unlocking the bootloader and rooting your device may:
 
 Proceed at your own risk.
 
-## Device Information
-
-**Model:** Moto G 2026
-**Firmware:** [exact build number]
-**Android Version:** [version]
-
 ## Files Included
 
 * `init_boot_patched.img`
@@ -60,10 +54,3 @@ Proceed at your own risk.
 * ADB and Fastboot installed
 * USB cable
 * Linux or Windows PC
-
-## Root Steps
-
-1. Enable OEM Unlocking.
-2. Unlock the bootloader.
-3. Reboot into the bootloader.
-4. Run the commands below.
